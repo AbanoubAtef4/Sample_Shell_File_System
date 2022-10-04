@@ -1,0 +1,12 @@
+C:\Users\$Bebo_Atef$\OneDrive\المستندات\Visual Studio 2015\Projects\OS_Project\OS_Project\bin\Debug\OS_Project.exe.config
+C:\Users\$Bebo_Atef$\OneDrive\المستندات\Visual Studio 2015\Projects\OS_Project\OS_Project\bin\Debug\OS_Project.exe
+C:\Users\$Bebo_Atef$\OneDrive\المستندات\Visual Studio 2015\Projects\OS_Project\OS_Project\bin\Debug\OS_Project.pdb
+C:\Users\$Bebo_Atef$\OneDrive\المستندات\Visual Studio 2015\Projects\OS_Project\OS_Project\obj\Debug\OS_Project.exe
+C:\Users\$Bebo_Atef$\OneDrive\المستندات\Visual Studio 2015\Projects\OS_Project\OS_Project\obj\Debug\OS_Project.pdb
+C:\Users\$Bebo_Atef$\OneDrive\المستندات\Visual Studio 2015\Projects\OS_Project\OS_Project\obj\Debug\Project_OS.csprojResolveAssemblyReference.cache
+E:\OS Team\os\OS_Project\OS_Project\bin\Debug\OS_Project.exe.config
+E:\OS Team\os\OS_Project\OS_Project\obj\Debug\OS_Project.exe
+E:\OS Team\os\OS_Project\OS_Project\obj\Debug\OS_Project.pdb
+E:\OS Team\os\OS_Project\OS_Project\bin\Debug\OS_Project.exe
+E:\OS Team\os\OS_Project\OS_Project\bin\Debug\OS_Project.pdb
+E:\OS Team\os\OS_Project\OS_Project\obj\Debug\Project_OS.csprojResolveAssemblyReference.cache
