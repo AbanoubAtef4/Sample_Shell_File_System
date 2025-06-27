@@ -1,8 +1,8 @@
-#🗂️ Shell File System Simulator
+# 🗂️ Shell File System Simulator
 A simple command-line file system simulator built in C# that replicates basic shell-like behavior.
 It supports file and directory creation, navigation (cd, ls), and basic CRUD operations, all handled with a structured in-memory data model.
 
-#📋 Features
+# 📋 Features
 Create files and directories.
 
 Navigate through directories (cd).
@@ -15,18 +15,18 @@ Structured in-memory representation of a file system.
 
 Object-Oriented Design for clean, extensible code.
 
-#🚀 Technologies Used
+# 🚀 Technologies Used
 C#
 
 .NET
 
 Object-Oriented Programming (OOP)
 
-#⚙️ Getting Started
+# ⚙️ Getting Started
 ✅ Prerequisites
 .NET SDK installed.
 
-#📥 Clone the Repository
+# 📥 Clone the Repository
 
 git clone https://github.com/<your-username>/Shell-File-System-Simulator.git
 cd Shell-File-System-Simulator
@@ -35,21 +35,21 @@ dotnet build
 
 ▶️ Run the Simulator
 dotnet run
-💡 Example Commands
+# 💡 Example Commands
 
-Create a new directory
+Create a new directory ==> 
 mkdir Projects
 
-Change directory
+Change directory ==> 
 cd Projects
 
-Create a new file
+Create a new file ==> 
 touch Readme.txt
 
-List current directory contents
+List current directory contents ==> 
 ls
 
-Delete a file or directory
+Delete a file or directory ==> 
 rm Readme.txt
 # 🧩 Project Structure
 Program.cs — Entry point, main loop for user input.
