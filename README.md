@@ -58,8 +58,8 @@ FileSystem.cs — Core logic for file system operations.
 
 Directory.cs & File.cs — Classes representing directories and files.
 
-🤝 Contributing
+# 🤝 Contributing
 Pull requests are welcome! For major changes, please open an issue first to discuss what you’d like to change.
 
-📬 Contact
+# 📬 Contact
 For questions or suggestions, feel free to reach out by opening an issue.
