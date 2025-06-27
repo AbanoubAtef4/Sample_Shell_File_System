@@ -30,10 +30,10 @@ Object-Oriented Programming (OOP)
 
 git clone https://github.com/<your-username>/Shell-File-System-Simulator.git
 cd Shell-File-System-Simulator
-🔨 Build the Project
+# 🔨 Build the Project
 dotnet build
 
-▶️ Run the Simulator
+# ▶️ Run the Simulator
 dotnet run
 # 💡 Example Commands
 
