@@ -3,17 +3,23 @@ A simple command-line file system simulator built in C# that replicates basic sh
 It supports file and directory creation, navigation (cd, ls), and basic CRUD operations, all handled with a structured in-memory data model.
 
 # 📋 Features
-Create files and directories.
+📁 Create & remove directories.
 
-Navigate through directories (cd).
+📄 Create, delete, copy, rename files.
 
-List contents of directories (ls).
+📂 Navigate using cd.
 
-Perform basic CRUD operations on files and folders.
+📜 List directory contents with dir.
 
-Structured in-memory representation of a file system.
+📃 View file contents with type.
 
-Object-Oriented Design for clean, extensible code.
+🔄 Import/export text files from/to your computer.
+
+📑 Help system for commands.
+
+🧹 Clear the screen.
+
+🚪 Quit the shell safely.
 
 # 🚀 Technologies Used
 C#
@@ -35,6 +41,23 @@ dotnet build
 
 # ▶️ Run the Simulator
 dotnet run
+# 🗂️ Supported Commands
+| Command  | Description                                                                                                           | Arguments |
+| -------- | --------------------------------------------------------------------------------------------------------------------- | --------- |
+| `cd`     | Change the current directory. If no path is given, shows the current directory. Reports an error if it doesn’t exist. | 1–2       |
+| `cls`    | Clear the screen.                                                                                                     | 0         |
+| `dir`    | List the contents of a directory.                                                                                     | 0–2       |
+| `quit`   | Exit the shell.                                                                                                       | 0         |
+| `copy`   | Copy one or more files to another location.                                                                           | 2         |
+| `del`    | Delete one or more files.                                                                                             | 1         |
+| `help`   | Show help info for commands.                                                                                          | 0–1       |
+| `md`     | Make a new directory.                                                                                                 | 1+        |
+| `rd`     | Remove a directory.                                                                                                   | 1+        |
+| `rename` | Rename a file.                                                                                                        | 2         |
+| `type`   | Display the contents of a text file.                                                                                  | 1         |
+| `import` | Import a text file from your computer.                                                                                | 1         |
+| `export` | Export a text file to your computer.                                                                                  | 2         |
+
 # 💡 Example Commands
 
 Create a new directory ==> 
